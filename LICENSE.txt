@@ -1,0 +1,16 @@
+Beryl — All rights reserved
+
+PikouGame (LeLoraxe on Nexus Mods), 2026.
+
+You may download and run this mod in your game. Permission to redistribute
+the mod, publish modified versions, or reuse its code or original assets in
+other projects is not granted. Contact PikouGame for permission. This notice
+does not restrict rights granted by applicable law or the hosting platforms'
+terms.
+
+Palworld and its game assets belong to their respective owners. No ownership
+of third-party game content is claimed. The .pak file in this package contains
+modified copies of Palworld game files; those files stay with their respective
+owners, and the permissions above do not extend to them. Beryl is an
+unofficial fan-made mod and is not affiliated with Pocketpair. UE4SS is not
+part of this package and has its own license.
