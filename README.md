@@ -34,7 +34,6 @@ Build it, run `sha256sum pk_s.dll`, and compare.
 We would love to hear how Beryl works on your machine. Leave a comment, share your experience or report a bug on the mod's page so we can investigate and improve it:
 
 - Nexus Mods: https://www.nexusmods.com/palworld/mods/6089 (Posts and Bugs tabs)
-- GitHub: https://github.com/PikouGame/Beryl/issues
 
 ## Credits and license
 
